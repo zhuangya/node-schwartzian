@@ -1,0 +1,27 @@
+{
+  "name": "schwartzian",
+  "version": "0.0.1",
+  "description": "Schwartzian transform",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zhuangya/node-schwartzian.git"
+  },
+  "keywords": [
+    "schwartzian",
+    "array",
+    "sort"
+  ],
+  "author": "Ya Zhuang <zhuangya@gmail.com> (https://zhuangya.me/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuangya/node-schwartzian/issues"
+  },
+  "homepage": "https://github.com/zhuangya/node-schwartzian#readme",
+  "devDependencies": {
+    "jest": "^22.2.1"
+  }
+}
