@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Schwartzian transform",
   "main": "index.js",
+  "files": [],
   "scripts": {
     "test": "jest"
   },
