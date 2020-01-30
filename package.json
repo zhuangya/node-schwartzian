@@ -1,6 +1,6 @@
 {
   "name": "@zhuangya/schwartzian",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Schwartzian transform",
   "main": "index.js",
   "types": "index.d.ts",
