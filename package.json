@@ -1,19 +1,17 @@
 {
   "name": "@zhuangya/schwartzian",
-  "version": "1.1.1",
+  "version": "2.0.0",
   "description": "Schwartzian transform",
   "main": "index.js",
+  "type": "module",
   "types": "index.d.ts",
   "files": [
     "index.d.ts"
   ],
   "scripts": {
-    "test": "jest"
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/zhuangya/node-schwartzian.git"
-  },
+  "repository": "github:zhuangya/node-schwartzian",
   "keywords": [
     "schwartzian",
     "array",
@@ -21,10 +19,6 @@
   ],
   "author": "Ya Zhuang <zhuangya@gmail.com> (https://zhuangya.me/)",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/zhuangya/node-schwartzian/issues"
-  },
-  "homepage": "https://github.com/zhuangya/node-schwartzian#readme",
   "devDependencies": {
     "jest": "^26.6.3"
   },
